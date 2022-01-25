@@ -435,7 +435,7 @@ VpaidVideoPlayer.prototype.getAdLinear = function() {
  * @param {string} message
  */
 VpaidVideoPlayer.prototype.log = function(message) {
-  console.log(message);
+  console.log('message***', message);
 };
 
 
