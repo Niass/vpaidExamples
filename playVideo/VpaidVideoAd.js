@@ -472,3 +472,5 @@ VpaidVideoPlayer.prototype.muteButtonOnClick_ = function() {
 var getVPAIDAd = function() {
   return new VpaidVideoPlayer();
 };
+
+console.log('js loaded....');
